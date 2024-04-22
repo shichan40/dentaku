@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+}
+
+table {
+    margin: auto;
+    margin-top: 300px;
+}
+
+td {
+    height: 140px;
+    width: 140px;
+    font-weight: 600;
+    background-color: #f0e9ea;
+    font-size: 54px;
+    color: #62585A;
+    text-align: center;
+    border: 10px solid white;
+    border-radius: 80px;
+}
+
+.td_orange {
+    background-color:  #F0D3D1;
+}
+
+.td_darkgray {
+    background-color:  #F1D8A7;
+}
+
+#td_right {
+    text-align: right;
+    background-color:  #F0D3D1;
+    color:  #62585A;
+    font-size: 80px;
+    border-radius: 20px;
+    padding: 0 20px;
+    overflow-x: scroll;
+    max-width: 590px;
+}
+
